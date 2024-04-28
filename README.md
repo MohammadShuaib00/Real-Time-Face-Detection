@@ -12,8 +12,6 @@ activate conda environment
 ```
 conda activate venv/
 
-source activate venv/
-```
 
 Install requirements
 ```
