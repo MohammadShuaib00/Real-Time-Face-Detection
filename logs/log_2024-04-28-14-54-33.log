@@ -1,0 +1,6 @@
+[2024-04-28 14:54:34,176]^;WARNING^;96^;_internal.py^;_log()^; * Debugger is active!
+[2024-04-28 14:54:34,188]^;INFO^;96^;_internal.py^;_log()^; * Debugger PIN: 101-928-942
+[2024-04-28 14:54:46,961]^;INFO^;96^;_internal.py^;_log()^;127.0.0.1 - - [28/Apr/2024 14:54:46] "GET /image HTTP/1.1" 200 -
+[2024-04-28 14:54:47,038]^;INFO^;96^;_internal.py^;_log()^;127.0.0.1 - - [28/Apr/2024 14:54:47] "[33mGET /image.css HTTP/1.1[0m" 404 -
+[2024-04-28 14:54:57,841]^;INFO^;96^;_internal.py^;_log()^;127.0.0.1 - - [28/Apr/2024 14:54:57] "[32mPOST /image HTTP/1.1[0m" 302 -
+[2024-04-28 14:55:13,701]^;INFO^;96^;_internal.py^;_log()^;127.0.0.1 - - [28/Apr/2024 14:55:13] "GET /uploads/output_2.png HTTP/1.1" 200 -

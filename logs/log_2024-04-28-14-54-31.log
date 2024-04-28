@@ -1,0 +1,6 @@
+[2024-04-28 14:54:31,819]^;WARNING^;96^;_internal.py^;_log()^; * Debugger is active!
+[2024-04-28 14:54:31,834]^;INFO^;96^;_internal.py^;_log()^; * Debugger PIN: 101-928-942
+[2024-04-28 14:54:31,873]^;INFO^;96^;_internal.py^;_log()^; * Detected change in 'C:\\Users\\moham\\anaconda3\\envs\\venv\\Lib\\encodings\\unicode_escape.py', reloading
+[2024-04-28 14:54:31,880]^;INFO^;96^;_internal.py^;_log()^;127.0.0.1 - - [28/Apr/2024 14:54:31] "GET / HTTP/1.1" 200 -
+[2024-04-28 14:54:31,923]^;INFO^;96^;_internal.py^;_log()^;127.0.0.1 - - [28/Apr/2024 14:54:31] "[32mGET /static//index.css HTTP/1.1[0m" 308 -
+[2024-04-28 14:54:31,939]^;INFO^;96^;_internal.py^;_log()^;127.0.0.1 - - [28/Apr/2024 14:54:31] "[33mGET /static/index.css HTTP/1.1[0m" 404 -
